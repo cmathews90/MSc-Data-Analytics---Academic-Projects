@@ -1,9 +1,8 @@
+Last Update: 15.01.2022
+
 <h1 align ="left">MSc Data Analytics</h1>
 
 <h5 align ="left">University of Huddersfield</h5>
 
 <p align="left">
-  This repository hosts work I've completed towards my masters. Thanks for opening this README, I'm currently planning the design structure for this repository;
-  focal nodes will include modules, module descriptions, overall grade, my masters roadmap for success, the assignment files, changelog and a licence.
-
-<h2 align="left">In development!</h2>
+  This repository hosts work I've completed towards my masters. It is mostly academic writing. Topics currently include, a review of 2020-2021 top 8 IS journals on SME value realisation from SME's. A project plan to apply NLP machine learning that identifies semantics for agency engagement prediciton from job boards. 
