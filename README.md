@@ -1,4 +1,4 @@
->b>Last Update: 15.01.2022</b>
+<b>Last Update: 15.01.2022</b>
 
 <h1 align ="left">MSc Data Analytics</h1>
 
